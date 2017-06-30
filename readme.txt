@@ -30,4 +30,4 @@ git checkout -b dev 创建并选择
 git merge  合并
 git branch -d dev 删除
 
-git branch confit testss
+git branch confit test
