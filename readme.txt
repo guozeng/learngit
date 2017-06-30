@@ -4,4 +4,8 @@ git 是分布式的版本管理工具
 
 git init
 git add
-git commit
+
+git commit -m xxxdd
+
+git status
+git diff
