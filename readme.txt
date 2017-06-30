@@ -11,4 +11,7 @@ git status
 git diff
 
 
-537d863
+git log
+git log --pretty=oneline
+git reset --hard head^
+git reset --hard 5f21eb7(版本号)
