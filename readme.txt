@@ -17,3 +17,5 @@ git reset --hard head^
 git reset --hard 5f21eb7(版本号)
 
 git reflog
+
+暂存区概念
