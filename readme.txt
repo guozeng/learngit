@@ -19,3 +19,7 @@ git reset --hard 5f21eb7(版本号)
 git reflog
 
 暂存区概念
+
+git remote add origin
+git push -u origin master
+git push origin master
